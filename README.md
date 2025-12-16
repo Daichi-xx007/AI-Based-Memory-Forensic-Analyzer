@@ -68,8 +68,8 @@ CyberSentinel AI is a cutting-edge memory forensics tool that leverages Machine 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cybersentinel-ai.git
-cd cybersentinel-ai
+git clone https://github.com/Daichi-xx007/AI-Based-Memory-Forensic-Analyzer/tree/master
+cd AI-Based_Forensic-Analyzer/tree/master
 ```
 
 2. **Install dependencies**
