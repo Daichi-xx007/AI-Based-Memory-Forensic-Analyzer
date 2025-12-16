@@ -88,8 +88,8 @@ numpy
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cybersentinel.git
-cd cybersentinel
+git clone https://github.com/Daichi-xx007/AI-Based-Memory-Forensic-Analyzer/tree/master
+cd AI-Based-Memory-Forensic-Analyzer/master
 
 # Create virtual environment
 python -m venv venv
