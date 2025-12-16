@@ -120,7 +120,7 @@ View and export previous scan results with filtering options.
 ## 🏗️ Architecture
 
 ```
-cybersentinel-ai/
+AI-Based-Memory-Forensic-Analyzer/
 ├── malmem.csv                 # Training dataset (CIC-MalMem-2022)
 ├── test_sample.csv            # Sample test file
 ├── models/                    # Saved trained models
