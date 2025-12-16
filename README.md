@@ -2,7 +2,7 @@
 
 **Advanced Machine Learning System for Automated Malware Detection in Memory Dumps**
 
-![Version](https://img.shields.io/badge/version-3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
